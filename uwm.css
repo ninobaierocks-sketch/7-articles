@@ -1,0 +1,75 @@
+
+/* UWM PAGE */
+
+.uwm-page {
+    margin: 0;
+    background-color: #eeeeee;
+    font-family: 'Merriweather', serif;
+    color: #333333;
+}
+
+/* Purple header */
+.uwm-page header {
+    background-color: #cc99d3;
+    padding: 20px 10%;
+}
+
+.uwm-page header h1 {
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.uwm-page header p {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+/* Navigation */
+.uwm-page nav {
+    background-color: #cc99d3;
+    padding: 10px 0;
+}
+
+/* Bright yellow main background */
+.uwm-page main {
+    background-color: #ffff80;
+    padding: 20px 10% 0;
+}
+
+/* Main article */
+.uwm-page article {
+    max-width: 850px;
+    margin: auto;
+    background-color: #ffff80;
+}
+
+/* Golden yellow content boxes */
+.uwm-page section {
+    background-color: #ffdf55;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+/* Pink Milwaukee section */
+.uwm-page aside {
+    background-color: #f4c4cd;
+    color: purple;
+    font-style: italic;
+    padding: 25px 10%;
+    margin: 20px -12.5% 0;
+}
+
+/* Mint green footer */
+.uwm-page footer {
+    background-color: #70f5cc;
+    padding: 20px 10%;
+}
+
+.uwm-page footer ul {
+    margin-bottom: 20px;
+}
+
+.uwm-page footer address {
+    padding-top: 10px;
+    font-style: italic;
+}
